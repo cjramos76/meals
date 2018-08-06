@@ -1,0 +1,10 @@
+com/gft/test/meals/model/MealType.class
+com/gft/test/meals/model/MorningMeal.class
+com/gft/test/meals/service/impl/FoodServiceImpl.class
+com/gft/test/meals/model/NightMeal.class
+com/gft/test/meals/Meal.class
+com/gft/test/meals/controller/impl/MealControllerImpl.class
+com/gft/test/meals/service/ValidateInputService.class
+com/gft/test/meals/controller/MealController.class
+com/gft/test/meals/service/FoodService.class
+com/gft/test/meals/service/impl/ValidateInputServiceImpl.class

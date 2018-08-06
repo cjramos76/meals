@@ -1,0 +1,10 @@
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/service/FoodService.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/Meal.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/controller/MealController.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/service/ValidateInputService.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/model/MealType.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/model/NightMeal.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/controller/impl/MealControllerImpl.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/service/impl/ValidateInputServiceImpl.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/service/impl/FoodServiceImpl.java
+/datos/programas/workspace/meals/src/main/java/com/gft/test/meals/model/MorningMeal.java
