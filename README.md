@@ -10,7 +10,7 @@ Para executar mvn exec:java -Dexec.args="${COMANDO}", por exemplo: mvn exec:java
 Os pacotes da aplicação começam em com.gft.test.meals.
 
 Classes:
-<li>
+
   <ul>com.gft.test.meals.Meal: classe java com método main para executar a aplicação</ul>
   <ul>com.gft.test.meals.controller.MealController</ul>
   <ul>com.gft.test.meals.controller.impl.MealControllerImpl (implements MealController): recebe os parámetros de entrada, verifica que são corretos e chama para fazer o pedido.</ul>
@@ -21,4 +21,4 @@ Classes:
   <ul>com.gft.test.meals.model.MealType: enum com os tipos de comida: night e morning</ul>
   <ul>com.gft.test.meals.model.MorningMeal: enum com as comidas da manha</ul>
   <ul>com.gft.test.meals.model.NightMeal: enum com as comidas da noite</ul>
-<li>
+
